@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD_004_01_02 User add registered job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa5f6be4-121b-410e-a3a7-a1144425ca3b</testCaseGuid>
+</TestCaseEntity>

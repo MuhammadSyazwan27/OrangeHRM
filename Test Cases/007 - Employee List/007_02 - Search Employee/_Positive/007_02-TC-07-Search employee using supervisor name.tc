@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_02-TC-07-Search employee using supervisor name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4edbcda6-4a86-4c39-bb20-487b4b52774a</testCaseGuid>
+</TestCaseEntity>

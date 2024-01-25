@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001-TC-02-Users enter invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca80f0b3-833a-435b-be3e-c2819624dadd</testCaseGuid>
+</TestCaseEntity>

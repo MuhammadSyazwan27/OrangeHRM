@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_04-TC-02-Users successfully edit the amount of maximum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b42f9a6-9bf4-486d-a0cf-f80e90d4f573</testCaseGuid>
+</TestCaseEntity>

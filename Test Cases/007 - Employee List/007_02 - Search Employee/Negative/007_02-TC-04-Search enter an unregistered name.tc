@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_02-TC-04-Search enter an unregistered name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63c8a91b-96a2-4f8f-a576-50605a61f0af</testCaseGuid>
+</TestCaseEntity>

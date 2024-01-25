@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "10C7F46E35A49C06D8ACA141D95117E8",
+  "keywordClasses": [
+    {
+      "name": "jobCategory.DeleteMultipleJobCategoryBDD",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

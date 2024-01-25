@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8C9628E33500080305F3EBFEB11BD952",
+  "keywordClasses": [
+    {
+      "name": "jobCategory.AddJobCategoryBDD",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

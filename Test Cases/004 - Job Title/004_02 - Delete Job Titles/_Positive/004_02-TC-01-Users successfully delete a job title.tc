@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_02-TC-01-Users successfully delete a job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e172e42-48a7-469f-8b22-b4c36db05373</testCaseGuid>
+</TestCaseEntity>

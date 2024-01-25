@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD_004_02_01 User delete a job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5123eed6-4226-415e-8d4d-4bd1df7105d5</testCaseGuid>
+</TestCaseEntity>

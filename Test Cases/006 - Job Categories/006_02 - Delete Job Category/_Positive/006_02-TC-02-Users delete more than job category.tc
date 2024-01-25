@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_02-TC-02-Users delete more than job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f80bb2af-598c-44b2-9238-620b147d53eb</testCaseGuid>
+</TestCaseEntity>

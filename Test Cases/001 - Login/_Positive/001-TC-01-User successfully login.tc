@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001-TC-01-User successfully login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f9ab5eb-478a-4c91-8477-ec32bb101038</testCaseGuid>
+</TestCaseEntity>

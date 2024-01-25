@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_01-TC-03-Users select file more than 1MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd41b211-c6df-4e44-b271-97b48e00622a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06e35d0b-4ff3-4da9-b626-5271de703049</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\file-example_PDF_1MB.pdf'</defaultValue>
+      <description></description>
+      <id>06e35d0b-4ff3-4da9-b626-5271de703049</id>
+      <masked>false</masked>
+      <name>gambar</name>
+   </variable>
+</TestCaseEntity>

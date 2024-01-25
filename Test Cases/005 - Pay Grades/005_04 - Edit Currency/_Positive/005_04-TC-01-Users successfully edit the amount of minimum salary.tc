@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_04-TC-01-Users successfully edit the amount of minimum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da4c123c-25e9-4a3b-970a-afce0b83d607</testCaseGuid>
+</TestCaseEntity>

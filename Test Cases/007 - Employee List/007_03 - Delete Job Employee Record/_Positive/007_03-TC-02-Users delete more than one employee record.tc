@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_03-TC-02-Users delete more than one employee record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3700e57-3271-41fe-97e3-fb0d77f6a2dd</testCaseGuid>
+</TestCaseEntity>

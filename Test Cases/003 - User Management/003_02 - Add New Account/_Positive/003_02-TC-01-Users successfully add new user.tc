@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_02-TC-01-Users successfully add new user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18079dfa-7725-4873-9763-728cafb9dd19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3ef568a-5b92-4da8-a91f-94431be300e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3b0938f-1f0a-4aa2-b75b-d7af451c6337</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1abfb4dd-1c47-4720-b852-b2fe8d6b7ae1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Odis'</defaultValue>
+      <description></description>
+      <id>a3ef568a-5b92-4da8-a91f-94431be300e7</id>
+      <masked>false</masked>
+      <name>employee_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>b3b0938f-1f0a-4aa2-b75b-d7af451c6337</id>
+      <masked>false</masked>
+      <name>add_User_Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vulture'</defaultValue>
+      <description></description>
+      <id>1abfb4dd-1c47-4720-b852-b2fe8d6b7ae1</id>
+      <masked>false</masked>
+      <name>add_User_Username</name>
+   </variable>
+</TestCaseEntity>

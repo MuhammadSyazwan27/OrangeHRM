@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_03-TC-01-Users successfully delete an employee record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb85b347-22b6-438a-bc72-cabfb82d2e6b</testCaseGuid>
+</TestCaseEntity>

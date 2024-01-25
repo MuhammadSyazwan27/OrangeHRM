@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_01-TC-03-Selected file is larger than 1MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a865ccd5-97fd-442d-a56c-fbe822be1604</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81d1b4fb-295a-42d9-be52-0f6f6eee4224</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\SampleJPGImage_2mbmb.jpg'</defaultValue>
+      <description></description>
+      <id>81d1b4fb-295a-42d9-be52-0f6f6eee4224</id>
+      <masked>false</masked>
+      <name>gambar</name>
+   </variable>
+</TestCaseEntity>

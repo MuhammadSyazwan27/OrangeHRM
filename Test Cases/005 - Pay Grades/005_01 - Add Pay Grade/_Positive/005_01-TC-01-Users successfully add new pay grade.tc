@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_01-TC-01-Users successfully add new pay grade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a8ac96-e578-40dd-815c-1feb70b0721d</testCaseGuid>
+</TestCaseEntity>

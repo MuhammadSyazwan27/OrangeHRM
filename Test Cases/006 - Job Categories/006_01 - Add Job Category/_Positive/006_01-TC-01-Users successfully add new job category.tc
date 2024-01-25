@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_01-TC-01-Users successfully add new job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>137bbc07-a0dd-4db5-a783-8ddaa6126edd</testCaseGuid>
+</TestCaseEntity>

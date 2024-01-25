@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_02-TC-03-Users enter less than five characters for username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad24d102-9db7-48dc-be82-4258a669f886</testCaseGuid>
+</TestCaseEntity>

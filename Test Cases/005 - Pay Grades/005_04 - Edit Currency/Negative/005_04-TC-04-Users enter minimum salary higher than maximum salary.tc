@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_04-TC-04-Users enter minimum salary higher than maximum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46baf98c-ba01-4484-8611-2d2f10a12e45</testCaseGuid>
+</TestCaseEntity>

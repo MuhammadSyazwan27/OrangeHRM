@@ -22,7 +22,7 @@ WebUI.callTestCase(findTestCase('001 - Login/_Positive/001-TC-01-User successful
 WebUI.click(findTestObject('Object Repository/003-TC-User Management/003_01-TC-02-Users_enter_invalid_username/Page_OrangeHRM/a_Admin'))
 
 WebUI.setText(findTestObject('Object Repository/003-TC-User Management/003_01-TC-02-Users_enter_invalid_username/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus'), 
-    'John Doe')
+    'John Doer')
 
 WebUI.click(findTestObject('Object Repository/003-TC-User Management/003_01-TC-02-Users_enter_invalid_username/Page_OrangeHRM/button_Search'))
 
